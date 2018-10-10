@@ -80,6 +80,7 @@ h4{ padding:20px;
 
 #aboutme-text{
     padding-left:40px;
+   
     
 }
 
@@ -99,10 +100,12 @@ h4{ padding:20px;
 
 p{
     padding-top:40px;
+    padding-left:40px;
 }
 
 footer{
     padding-top:40px;
+    padding-left:40px;
     color:#a78a7f
 }
 
