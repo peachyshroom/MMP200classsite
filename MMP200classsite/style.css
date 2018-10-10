@@ -32,6 +32,19 @@ h2 {
     font-weight:700;
 }
 
+h3 {
+    font-size: 2em;
+    padding-left:20px;
+   color:white;
+    height:48;
+     
+    }
+    
+}
+
+h4{ padding:20px;
+}
+
 #content{
     display:flex;
     flex-direction: column
@@ -53,6 +66,8 @@ h2 {
 }
 
 .work-item{
+    padding-top:40px;
+    
     
 }
 
@@ -64,14 +79,11 @@ h2 {
 }
 
 #aboutme-text{
+    padding-left:40px;
     
 }
 
-h3{ 
-   color:white;
-    height:48;
-     
-    }
+
 
 .content-item{ padding-left:;
     padding-right:;
@@ -85,7 +97,14 @@ h3{
     
 }
 
+p{
+    padding-top:40px;
+}
 
+footer{
+    padding-top:40px;
+    color:#a78a7f
+}
 
 /* web version */
 
